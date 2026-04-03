@@ -32,5 +32,4 @@ Open https://mind-safe-x2tj.vercel.app/
 5. Book 10-minute pickup
 6. Receive wipe certificate
 
-## License
-MIT
+

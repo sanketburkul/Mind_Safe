@@ -28,27 +28,7 @@ Open https://mind-safe-x2tj.vercel.app/
 - Supabase
 - Mapbox
 
-## Environment Variables
 
-Create `.env.local`:
-```
-GEMINI_API_KEY=your_key_here
-NEXT_PUBLIC_MAPBOX_TOKEN=your_token_here
-SUPABASE_URL=your_url_here
-SUPABASE_KEY=your_key_here
-```
-
-## PWA Installation
-
-On mobile, tap "Add to Home Screen" for app-like experience.
-
-## Hackathon Demo
-
-Run the demo script:
-1. Open on mobile device
-2. Say "I have an old iPhone"
-3. Scan device with camera
-4. Watch agents negotiate price
 5. Book 10-minute pickup
 6. Receive wipe certificate
 

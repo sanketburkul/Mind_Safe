@@ -328,26 +328,8 @@ All agents share state through a central hub:
 
 ---
 
-## 13. Budget & Resources
 
-### Development Cost: ₹0
-- Free hosting (Vercel/Netlify)
-- Free database (Supabase)
-- Free AI API (Gemini free tier)
-- Free maps (Mapbox free tier)
 
-### Time Investment
-- **Setup:** 4 hours
-- **Agent Development:** 10 hours
-- **UI/UX:** 6 hours
-- **Testing & Polish:** 4 hours
-- **Total:** 24 hours (perfect for hackathon)
-
----
-
-## Winning Strategy
-
-**The "Invisible AI" Principle:** The best agentic systems don't feel like AI—they feel like magic. Your user should never see "AI is thinking..." They should see: "I found you the best price" or "Your technician is 2 minutes away."
 
 **Show the Agents Working:** In your demo, use a split-screen or inspector panel that shows the agent logs. Let judges see the Negotiator Agent actually negotiating in real-time.
 
